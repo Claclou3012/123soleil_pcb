@@ -49,13 +49,14 @@ La liste complète des composants (résistances, condensateurs, diodes) est disp
 ## Images
 
 ### Schéma électronique
-![Schéma](images/schema.png)
+![Schéma](images/Schema.png)
 
 ### PCB (vue 2D)
-![PCB](images/pcb.png)
+![PCB](images/Pcb.png)
 
 ### Rendu 3D
-![Rendu 3D](images/3D.png)
+![Rendu 3D](images/3D_recto.png)
+![Rendu 3D](images/3D_verso.png)
 
 ## Fabrication et assemblage
 
