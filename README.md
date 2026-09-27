@@ -55,8 +55,10 @@ La liste complète des composants (résistances, condensateurs, diodes) est disp
 ![PCB](images/Pcb.png)
 
 ### Rendu 3D
+### Recto
 ![Rendu 3D](images/3D_recto.png)
 
+### Verso
 ![Rendu 3D](images/3D_verso.png)
 
 ## Fabrication et assemblage
