@@ -45,6 +45,7 @@ La liste complète des composants (résistances, condensateurs, diodes) est disp
 - `123Soleil.kicad_pro` — fichier projet KiCad
 - `123Soleil.kicad_sch` — schéma électronique
 - `123Soleil.kicad_pcb` — circuit imprimé (2 couches, plan de masse séparé sur chaque face)
+- `ibom.html` 
 
 ## Images
 
